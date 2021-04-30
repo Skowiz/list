@@ -1,0 +1,25 @@
+{
+  "name": "Adrien List",
+  "timestamp": "2021-01-21T23:57:10.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "adrien",
+    "list"
+  ],
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x913D8ADf7CE6986a8CbFee5A54725D9Eea4F0729",
+      "name": "EasyFi",
+      "symbol": "EASY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12742/small/skiXdJLe_400x400.png?1602630380"
+    }
+  ]
+}
